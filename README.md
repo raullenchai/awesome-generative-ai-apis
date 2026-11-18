@@ -68,6 +68,7 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [NovAI](https://aiapi-pro.com/) | [Link](https://aiapi-pro.com/docs) | Y | OpenAI-compatible relay exposing 114 frontier models from Chinese and Western providers (DeepSeek, Qwen, GLM, Kimi, MiniMax, Doubao, Hunyuan) under a single API key, with image and video generation on the same endpoint. |
 
 ## AI Gateway/Aggregator
 
